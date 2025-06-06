@@ -1,1 +1,108 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","settings":{"text":"Announce something here"}}},"block_order":["message"],"settings":{"enable_sticky":false,"text_size":"text-xs","navigation_mode":"scrolling","scrolling_speed":10,"background":"#1a1a1a","text_color":"#ffffff"}},"header":{"type":"header","settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"{{shop.brand.logo}}","logo_max_width":120,"logo_mobile_max_width":100,"menu":"main-menu","menu_open_trigger":"click","opening_from":"bottom","layout":"logo_left_navigation_center","show_social_media":true,"show_country_flag":true,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":false,"background_opacity":100,"background_blur_radius":0}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "📦 Paiement à la livraison",
+            "url": ""
+          }
+        },
+        "message_cTnxTJ": {
+          "type": "message",
+          "settings": {
+            "text": "✅ Garantie ou remboursé",
+            "url": ""
+          }
+        },
+        "message_QrrUy8": {
+          "type": "message",
+          "settings": {
+            "text": "🚚 Livraison gratuite",
+            "url": ""
+          }
+        },
+        "message_3XdpbF": {
+          "type": "message",
+          "settings": {
+            "text": "✨ PROMO AÏD -60%",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_cTnxTJ",
+        "message_QrrUy8",
+        "message_3XdpbF"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "autoplay": false,
+        "cycle_speed": 6,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "custom_liquid_9GdwDD": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"announcement-bar\" style=\"background-color: #fff8e1; color: #5c4520; padding: 12px; text-align: center; font-size: 15px; font-weight: 500; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;\">\n  🔔 À l’occasion de l’Aïd al-Adha, notre showroom sera fermé du <strong>5 au 12 juin</strong>. Les commandes en ligne seront traitées à partir du <strong>11 juin 2025</strong>.\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "{{shop.brand.logo}}",
+        "logo_max_width": 120,
+        "logo_mobile_max_width": 100,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": false,
+        "background_opacity": 100,
+        "background_blur_radius": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "custom_liquid_9GdwDD",
+    "header"
+  ]
+}
