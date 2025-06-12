@@ -79,7 +79,7 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Design_sans_titre_3.png",
-        "logo_max_width": 140,
+        "logo_max_width": 155,
         "logo_mobile_max_width": 70,
         "menu": "main-menu",
         "sidebar_menu": "",
