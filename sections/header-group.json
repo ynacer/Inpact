@@ -63,7 +63,6 @@
     },
     "custom_liquid_9GdwDD": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": true,
@@ -79,8 +78,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/Design_sans_titre_3.png",
+        "logo_max_width": 195,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
