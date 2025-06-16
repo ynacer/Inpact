@@ -26,18 +26,6 @@
     },
     "image_with_text_overlay_QF9ggC": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_X6VfQT": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_X6VfQT"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -196,7 +184,7 @@
         "subheading": "",
         "title": "Collection list",
         "content": "",
-        "link_url": "",
+        "link_url": "shopify://collections/أدوات-وابتكارات-منزلية",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
