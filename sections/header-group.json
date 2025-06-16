@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "📦 Paiement à la livraison",
+            "text": "📦 الدفع عند الاستلام",
             "url": ""
           }
         },
         "message_cTnxTJ": {
           "type": "message",
           "settings": {
-            "text": "✅ Garantie ou remboursé",
+            "text": "✅ ضمان استرداد الأموال",
             "url": ""
           }
         },
         "message_QrrUy8": {
           "type": "message",
           "settings": {
-            "text": "🚚 Livraison gratuite",
+            "text": "🚚 توصيل مجاني",
             "url": ""
           }
         },
@@ -63,6 +63,7 @@
     },
     "custom_liquid_9GdwDD": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": true,
