@@ -75,6 +75,7 @@
         "richtext_iVCmdF",
         "button_mc7ckN"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -88,15 +89,18 @@
     "rich_text_XCrMrn": {
       "type": "rich-text",
       "blocks": {
-        "richtext_Ke6xmT": {
-          "type": "richtext",
+        "heading_fJKVe7": {
+          "type": "heading",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "تسوق حسب الأقسام",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "richtext_Ke6xmT"
+        "heading_fJKVe7"
       ],
       "name": "Rich text",
       "settings": {
@@ -167,7 +171,7 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
