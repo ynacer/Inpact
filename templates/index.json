@@ -213,7 +213,12 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "طقم-طاولة-توب-الغرزة-بـ-8-مناديل",
+          "طقم-طبيقات-مزخرف-مغربي-3-قطع",
+          "علب-تقديم-مغربية-مطرزة",
+          "مضرب-ناموس-كهربائي"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -232,33 +237,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "image_with_text_overlay_N76Q8g": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_bEeqq6": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bEeqq6"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "rich_text_pbpXjA": {
@@ -435,7 +413,6 @@
     "collection_list_3tCLAV",
     "rich_text_KPrJTR",
     "featured_collection_9yMGPb",
-    "image_with_text_overlay_N76Q8g",
     "rich_text_pbpXjA",
     "custom_liquid_tbNhzm",
     "multi_column_TEHHGW",
