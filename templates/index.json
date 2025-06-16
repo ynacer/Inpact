@@ -114,7 +114,7 @@
         "collection_fQgJGy": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "أدوات-وابتكارات-منزلية",
             "subheading": "",
             "title": "",
             "url": "",
@@ -128,7 +128,7 @@
         "collection_AEnjLG": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "الديكور-التقليدي",
             "subheading": "",
             "title": "",
             "url": "",
@@ -142,21 +142,7 @@
         "collection_UNKC8Q": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_xk4imB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "مفارش-الطاولات",
             "subheading": "",
             "title": "",
             "url": "",
@@ -171,8 +157,7 @@
       "block_order": [
         "collection_fQgJGy",
         "collection_AEnjLG",
-        "collection_UNKC8Q",
-        "collection_xk4imB"
+        "collection_UNKC8Q"
       ],
       "name": "Collection list",
       "settings": {
@@ -184,7 +169,7 @@
         "subheading": "",
         "title": "Collection list",
         "content": "",
-        "link_url": "shopify://collections/أدوات-وابتكارات-منزلية",
+        "link_url": "",
         "link_text": "",
         "background": "",
         "background_gradient": "",
