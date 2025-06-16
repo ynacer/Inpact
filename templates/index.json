@@ -182,6 +182,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_KPrJTR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WQ8yEm": {
+          "type": "heading",
+          "settings": {
+            "text": "المنتجات",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_WQ8yEm"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_collection_9yMGPb": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -195,10 +221,10 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -407,6 +433,7 @@
     "rich_text_jPjdUc",
     "rich_text_XCrMrn",
     "collection_list_3tCLAV",
+    "rich_text_KPrJTR",
     "featured_collection_9yMGPb",
     "image_with_text_overlay_N76Q8g",
     "rich_text_pbpXjA",
