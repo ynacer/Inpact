@@ -159,7 +159,7 @@
           "type": "heading",
           "settings": {
             "text": "تسوق حسب الأقسام",
-            "heading_tag": "h1",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
