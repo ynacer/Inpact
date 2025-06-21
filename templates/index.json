@@ -106,6 +106,54 @@
         "background_gradient": ""
       }
     },
+    "logo_list_a9wxXY": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_TM8GnQ": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_8fmxWq": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_WzHYGH": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/fe40c1cd-ce13-4b76-9906-f4d4b595f49f.jpg",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_TM8GnQ",
+        "logo_8fmxWq",
+        "logo_WzHYGH"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "تسوق حسب الأقسام",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_jPjdUc": {
       "type": "rich-text",
       "blocks": {
@@ -475,6 +523,7 @@
     "slideshow",
     "image_with_text_overlay_QF9ggC",
     "slideshow_7nyRM6",
+    "logo_list_a9wxXY",
     "rich_text_jPjdUc",
     "rich_text_XCrMrn",
     "collection_list_3tCLAV",
