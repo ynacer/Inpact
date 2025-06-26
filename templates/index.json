@@ -117,14 +117,14 @@
         "logo_WzHYGH"
       ],
       "custom_css": [
-        ".logo-list__item {height: 90px; background-color: #f0f0f0;}"
+        ".logo-list__item {height: 120px; background-color: #f0f0f0;}"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "تسوق حسب الأقسام",
-        "content": "",
+        "title": "",
+        "content": "<h2>تسوق حسب الأقسام</h2>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
