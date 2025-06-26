@@ -116,6 +116,9 @@
         "logo_8fmxWq",
         "logo_WzHYGH"
       ],
+      "custom_css": [
+        ".logo-list__item {height: 90px; background-color: #f0f0f0;}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
