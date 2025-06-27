@@ -136,6 +136,77 @@
         "logo_item_border": ""
       }
     },
+    "collection_list_x3P6ji": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_dtrr4c": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/6b9bc961-7a89-4401-9a33-1125ddcaaaae-removebg-preview.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_dNGAqq": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_mB9t8c": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_dtrr4c",
+        "collection_dNGAqq",
+        "collection_mB9t8c"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_jPjdUc": {
       "type": "rich-text",
       "blocks": {
@@ -507,6 +578,7 @@
     "image_with_text_overlay_QF9ggC",
     "slideshow_7nyRM6",
     "logo_list_a9wxXY",
+    "collection_list_x3P6ji",
     "rich_text_jPjdUc",
     "rich_text_XCrMrn",
     "collection_list_3tCLAV",
