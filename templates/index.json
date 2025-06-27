@@ -145,6 +145,21 @@
             "collection": "",
             "image": "shopify://shop_images/6b9bc961-7a89-4401-9a33-1125ddcaaaae-removebg-preview.png",
             "subheading": "",
+            "title": "مفارش الطاولات",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#f0f0f0",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_dNGAqq": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/a2072ce0-7e5f-4287-a74f-dd346f151535-removebg-preview.png",
+            "subheading": "",
             "title": "",
             "url": "",
             "heading_tag": "h2",
@@ -154,24 +169,11 @@
             "overlay_opacity": 0
           }
         },
-        "collection_dNGAqq": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_mB9t8c": {
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/5133d171-b474-4740-9b2f-a1222027be46-removebg-preview.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -179,7 +181,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
