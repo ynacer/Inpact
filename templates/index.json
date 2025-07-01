@@ -459,6 +459,7 @@
         "heading_8DyMeB",
         "richtext_cELbrj"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
