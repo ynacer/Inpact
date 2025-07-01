@@ -40,6 +40,29 @@
         "overlay_opacity": 10
       }
     },
+    "rich_text_qKiMC3": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_zGKQL8": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zGKQL8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_7nyRM6": {
       "type": "slideshow",
       "blocks": {
@@ -191,6 +214,7 @@
         "collection_dNGAqq",
         "collection_mB9t8c"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -579,6 +603,7 @@
   "order": [
     "slideshow",
     "image_with_text_overlay_QF9ggC",
+    "rich_text_qKiMC3",
     "slideshow_7nyRM6",
     "logo_list_a9wxXY",
     "collection_list_x3P6ji",
