@@ -34,20 +34,12 @@
             "text": "🚚 توصيل مجاني",
             "url": ""
           }
-        },
-        "message_3XdpbF": {
-          "type": "message",
-          "settings": {
-            "text": "✨ PROMO AÏD -60%",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message",
         "message_cTnxTJ",
-        "message_QrrUy8",
-        "message_3XdpbF"
+        "message_QrrUy8"
       ],
       "settings": {
         "enable_sticky": false,
