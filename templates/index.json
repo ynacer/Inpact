@@ -313,14 +313,15 @@
           "type": "collection",
           "settings": {
             "collection": "أدوات-وابتكارات-منزلية",
+            "image": "shopify://shop_images/Design_sans_titre_10.png",
             "subheading": "",
             "title": "",
             "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "heading_tag": "h6",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#1a1a1a",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_AEnjLG": {
