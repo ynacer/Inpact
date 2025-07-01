@@ -328,12 +328,13 @@
           "type": "collection",
           "settings": {
             "collection": "الديكور-التقليدي",
+            "image": "shopify://shop_images/Design_sans_titre_11.png",
             "subheading": "",
             "title": "",
             "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "heading_tag": "h6",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#1a1a1a",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -342,12 +343,13 @@
           "type": "collection",
           "settings": {
             "collection": "مفارش-الطاولات",
+            "image": "shopify://shop_images/Design_sans_titre_12.png",
             "subheading": "",
             "title": "",
             "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "heading_tag": "h6",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#1a1a1a",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
