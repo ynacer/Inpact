@@ -116,6 +116,7 @@
         "logo_8fmxWq",
         "logo_WzHYGH"
       ],
+      "disabled": true,
       "custom_css": [
         ".logo-list__item {height: 120px; background-color: #f0f0f0;}"
       ],
@@ -201,7 +202,7 @@
         "title": "Collection list",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",

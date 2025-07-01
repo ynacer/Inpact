@@ -36,6 +36,9 @@
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_icon": "shopping_basket",
+    "social_facebook": "https://www.facebook.com/share/1AgGPjvG8D/?mibextid=wwXIfr",
+    "social_instagram": "https://www.instagram.com/yallahshop1?igsh=OWJncnc1NzlhbnFh&utm_source=qr",
+    "social_whatsapp": "https://wa.me/212606431434",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
