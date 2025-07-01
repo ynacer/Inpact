@@ -82,14 +82,6 @@
             "menu_title": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -101,7 +93,6 @@
       },
       "block_order": [
         "links_NBtzXA",
-        "links",
         "text"
       ],
       "settings": {
