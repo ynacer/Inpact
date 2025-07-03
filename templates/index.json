@@ -40,29 +40,6 @@
         "overlay_opacity": 10
       }
     },
-    "rich_text_qKiMC3": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_zGKQL8": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_zGKQL8"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "slideshow_7nyRM6": {
       "type": "slideshow",
       "blocks": {
@@ -72,7 +49,7 @@
             "image": "shopify://shop_images/WhatsApp_Image_2025-06-24_at_10.11.44.jpg",
             "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-06-24_101048.png",
             "content_max_width": 1200,
-            "mobile_text_position": "place-self-end-center text-center",
+            "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
@@ -610,7 +587,6 @@
   "order": [
     "slideshow",
     "image_with_text_overlay_QF9ggC",
-    "rich_text_qKiMC3",
     "slideshow_7nyRM6",
     "logo_list_a9wxXY",
     "collection_list_x3P6ji",
