@@ -11,19 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "custom_liquid_Fdkijn": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"display: flex; justify-content: space-between; text-align: right; direction: rtl; gap: 50px;\">\n  <div>\n    <h3>عن المتجر</h3>\n    <hr style=\"width: 20px; border: 1px solid #007bff; margin-right: 0;\">\n    <ul style=\"list-style: none; padding: 0;\">\n      <li><a href=\"/about\">عن المتجر</a></li>\n      <li><a href=\"/payment-methods\">طرق الدفع</a></li>\n      <li><a href=\"/shipping\">الشحن والتسليم</a></li>\n    </ul>\n  </div>\n  <div>\n    <h3>الشروط والسياسات</h3>\n    <hr style=\"width: 20px; border: 1px solid #007bff; margin-right: 0;\">\n    <ul style=\"list-style: none; padding: 0;\">\n      <li><a href=\"/terms\">شروط الاستخدام</a></li>\n      <li><a href=\"/refund\">سياسة الإستبدال والإسترجاع</a></li>\n      <li><a href=\"/privacy\">سياسة الخصوصية</a></li>\n    </ul>\n  </div>\n  <div>\n    <h3>إتصل بنا</h3>\n    <hr style=\"width: 20px; border: 1px solid #007bff; margin-right: 0;\">\n    <ul style=\"list-style: none; padding: 0;\">\n      <li><a href=\"/contact\">إتصل بنا</a></li>\n      <li><a href=\"/faq\">الأسئلة المتكررة</a></li>\n    </ul>\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "text_with_icons_GfBN3k": {
       "type": "text-with-icons",
       "name": "Text with icons",
@@ -125,7 +112,6 @@
     }
   },
   "order": [
-    "custom_liquid_Fdkijn",
     "text_with_icons_GfBN3k",
     "text-with-icons",
     "footer"
