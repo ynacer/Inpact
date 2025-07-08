@@ -502,12 +502,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_bHYDWU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_E3325.jpg",
+            "column_size": "3",
+            "title": "أراء الزبناء",
+            "heading_tag": "h4",
+            "content": "<p><br/>خديتها لمناسبة فدارنا، وكلشي عجبو الشكل ديالها!<br/>الطرز لي فيها راقي بزاف وكيعطي واحد اللمسة تقليدية زوينة<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_LCHQRK",
         "item_G3UQDq",
-        "item_Ry6ELf"
+        "item_Ry6ELf",
+        "item_bHYDWU"
       ],
       "name": "Multi-column",
       "settings": {
