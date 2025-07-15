@@ -523,13 +523,27 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_ATR8Y6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-15_at_20.57.44.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><br/>الطبوقة زوينين بزاف وخدمة نْقيّة! خديتهم جاوني فحال التصاور، الخشب زوين والتوب تقليدي كيعطي منظر فخم فالضيافة. وصلتني ف وقت قصير وبلا مشاكل. كننصح بهم أي واحد كيبغي الحاجة المعقولة!\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_LCHQRK",
         "item_G3UQDq",
         "item_Ry6ELf",
-        "item_bHYDWU"
+        "item_bHYDWU",
+        "item_ATR8Y6"
       ],
       "name": "Multi-column",
       "settings": {
