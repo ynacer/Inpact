@@ -536,6 +536,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_byh93B": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/30CM_8.png",
+            "column_size": "3",
+            "title": "أراء الزبناء",
+            "heading_tag": "h4",
+            "content": "<p>Mashalah je suis surpris de la qualité de ces articles je recommande Yallahshop sans hésitation </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -543,7 +556,8 @@
         "item_G3UQDq",
         "item_Ry6ELf",
         "item_bHYDWU",
-        "item_ATR8Y6"
+        "item_ATR8Y6",
+        "item_byh93B"
       ],
       "name": "Multi-column",
       "settings": {
