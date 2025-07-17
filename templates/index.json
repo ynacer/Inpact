@@ -487,6 +487,7 @@
         },
         "item_G3UQDq": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/c1d0a0a2-859b-48f7-8619-995b9650c5d2.jpg",
             "column_size": "3",
