@@ -632,6 +632,59 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "faq_FxzpaR": {
+      "type": "faq",
+      "blocks": {
+        "item_Qe9ixP": {
+          "type": "item",
+          "settings": {
+            "title": "التوصيل",
+            "content": "<p>الشحن مجانا والدفع عند التسليم.  يتم التوصيل عادةً في أيام عمل 1-3  في المغرب أما بالنسبة لباقي أنحاء العالم، فيتم الشحن حسب الدولة التي تتواجد فيها<br/><br/><br/><br/><br/><br/><br/><br/><br/></p>"
+          }
+        },
+        "item_DRk8mk": {
+          "type": "item",
+          "settings": {
+            "title": "سياسة الاسترجاع",
+            "content": "<p>عند استلام المنتج ، يمكنك إعادته خلال 30 يوم إذا كانت لديك أي أسئلة بعد استلام المنتج ، فيرجى الاتصال بالدردشة المباشرة أو البريد الإلكتروني إلى support@yallashop.com<br/><br/></p>"
+          }
+        },
+        "item_cPYPDA": {
+          "type": "item",
+          "settings": {
+            "title": "30 يوم ضمان",
+            "content": "<p>ضمان إرجاع أو استرداد لمدة 30 يومًا. يؤهلك هذا للمطالبة باسترداد المبلغ أو استبداله في غضون 30 يومًا من استلام العناصر الخاصة بك. لتقديم مطالبة تواصل معنا على بريدنا الالكتروني support@yallashop.com<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Qe9ixP",
+        "item_DRk8mk",
+        "item_cPYPDA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "الأسئلة الأكثر شيوعا",
+        "content": "<p>هنا تجد أجوبة عن الأسئلة الاكثر شيوعا، إدا مازلت تريد معلومات إضافية، يمكنك دائما الاتصال بنا عبر بريدنا الالكتروني.<br/><br/></p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -648,6 +701,7 @@
     "rich_text_pbpXjA",
     "custom_liquid_tbNhzm",
     "multi_column_TEHHGW",
-    "testimonials_Jg4g7D"
+    "testimonials_Jg4g7D",
+    "faq_FxzpaR"
   ]
 }

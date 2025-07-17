@@ -92,7 +92,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "عن المتجر",
+            "title": "yallahshop",
             "content": "<p> نسعى لدوام الثقة مع عملائنا، منتجاتنا مختارة بعناية لنضمن الجودة و السعر الأمثل، تجربتك معنا لن تكون الأخيرة</p>",
             "enable_follow_on_shop": true
           }
@@ -109,11 +109,59 @@
         "show_country_name": true,
         "show_locale_selector": true
       }
+    },
+    "rich_text_wpriqc": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_a39NUB": {
+          "type": "subheading",
+          "settings": {
+            "text": "📍 CENTRE COMMERCIAL HABOUS TOUR 20 AVENUE MOHAMED KAMAL N 81-82 ETG 14 ,Casablanca, Maroc"
+          }
+        },
+        "subheading_gNhfJD": {
+          "type": "subheading",
+          "settings": {
+            "text": "📩 : yallahshop@outlook.com"
+          }
+        },
+        "subheading_Qdz4Ub": {
+          "type": "subheading",
+          "settings": {
+            "text": "🟢📞 WhatsApp : +212 669 04 60 26"
+          }
+        },
+        "heading_6rf8yh": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_a39NUB",
+        "subheading_gNhfJD",
+        "subheading_Qdz4Ub",
+        "heading_6rf8yh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "text_with_icons_GfBN3k",
     "text-with-icons",
+    "rich_text_wpriqc",
     "footer"
   ]
 }
