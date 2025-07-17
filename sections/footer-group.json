@@ -86,30 +86,6 @@
         "text_color": ""
       }
     },
-    "footer": {
-      "type": "footer",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "yallahshop",
-            "content": "<p> نسعى لدوام الثقة مع عملائنا، منتجاتنا مختارة بعناية لنضمن الجودة و السعر الأمثل، تجربتك معنا لن تكون الأخيرة</p>",
-            "enable_follow_on_shop": true
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "show_social_media": true,
-        "show_payment_icons": true,
-        "show_country_selector": true,
-        "show_country_flag": true,
-        "show_country_name": true,
-        "show_locale_selector": true
-      }
-    },
     "rich_text_wpriqc": {
       "type": "rich-text",
       "blocks": {
@@ -122,13 +98,13 @@
         "subheading_gNhfJD": {
           "type": "subheading",
           "settings": {
-            "text": "📩 : yallahshop@outlook.com"
+            "text": "📩 : yallahshop1@gmail.com"
           }
         },
         "subheading_Qdz4Ub": {
           "type": "subheading",
           "settings": {
-            "text": "🟢📞 WhatsApp : +212 669 04 60 26"
+            "text": "🟢📞 WhatsApp : +212 606431434"
           }
         },
         "heading_6rf8yh": {
@@ -155,6 +131,30 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "yallahshop",
+            "content": "<p> نسعى لدوام الثقة مع عملائنا، منتجاتنا مختارة بعناية لنضمن الجودة و السعر الأمثل، تجربتك معنا لن تكون الأخيرة</p>",
+            "enable_follow_on_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "show_locale_selector": true
       }
     }
   },
