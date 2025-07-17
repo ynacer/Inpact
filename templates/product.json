@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title": {
@@ -28,29 +29,14 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
+        "quantity_selector": {
+          "type": "quantity_selector",
           "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -63,8 +49,8 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
+        "payment_terms": {
+          "type": "payment_terms",
           "settings": {}
         },
         "buy_buttons": {
@@ -78,10 +64,26 @@
             "payment_button_text_color": ""
           }
         },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
         "liquid_G6kHeJ": {
           "type": "liquid",
           "settings": {
             "liquid": "<!-- WhatsApp Button -->\n<a id=\"whatsapp-button\" href=\"#\" target=\"_blank\" aria-label=\"Commander via WhatsApp\">\n  <button class=\"whatsapp-btn\">\n    <img src=\"https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg\" \n         alt=\"WhatsApp\" class=\"whatsapp-icon\">\n    Commander via WhatsApp\n  </button>\n</a>\n\n<!-- CSS Styling -->\n<style>\n  .whatsapp-btn {\n    width: 100%;\n    background-color: #25D366;\n    color: #fff;\n    border: none;\n    padding: 14px 24px;\n    border-radius: 999px;\n    font-size: 16px;\n    font-weight: 600;\n    cursor: pointer;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    transition: background-color 0.3s ease;\n  }\n\n  .whatsapp-btn:hover {\n    background-color: #1ebe5b;\n  }\n\n  .whatsapp-icon {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n  }\n</style>\n\n<!-- JavaScript -->\n<script>\n  const whatsappNumber = \"212606431434\"; // ton numéro sans le 0\n  const productUrl = window.location.href;\n  const message = `السلام عليكم، بغيت نطلب هاد المنتج من YallahShop: ${productUrl}`;\n  const encodedMessage = encodeURIComponent(message);\n  const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;\n  document.getElementById(\"whatsapp-button\").href = whatsappLink;\n</script>"
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
           }
         }
       },
@@ -90,14 +92,14 @@
         "title",
         "badges",
         "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
-        "variant_picker",
         "quantity_selector",
+        "variant_picker",
+        "payment_terms",
         "buy_buttons",
-        "liquid_G6kHeJ"
+        "rating",
+        "liquid_G6kHeJ",
+        "separator",
+        "description"
       ],
       "settings": {
         "full_width": true,
@@ -128,7 +130,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "منتجات قد تنال إعجابك",
         "content": "",
         "background": "",
         "background_gradient": "",
