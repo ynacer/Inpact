@@ -51,7 +51,14 @@
         },
         "payment_terms": {
           "type": "payment_terms",
+          "disabled": true,
           "settings": {}
+        },
+        "releasit_cod_form_form_app_block_9ydanc": {
+          "type": "shopify://apps/releasit-cod-form/blocks/form-app-block/72faf214-4174-4fec-886b-0d0e8d3af9a2",
+          "settings": {
+            "product": "{{product}}"
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -95,6 +102,7 @@
         "quantity_selector",
         "variant_picker",
         "payment_terms",
+        "releasit_cod_form_form_app_block_9ydanc",
         "buy_buttons",
         "rating",
         "liquid_G6kHeJ",
