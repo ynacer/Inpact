@@ -16,6 +16,8 @@
     "block_border_radius": 24,
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
+    "icon_stroke_width": 1,
+    "icon_style": "mono",
     "background": "#f0f0f0",
     "text_color": "#1a1a1a",
     "header_background": "#f0f0f0",
@@ -34,6 +36,7 @@
     "text_font": "din_next_n4",
     "heading_apparition": "split_fade",
     "show_quick_buy": true,
+    "show_product_rating": false,
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_icon": "shopping_basket",
@@ -51,18 +54,8 @@
       },
       "13669795325273674392": {
         "type": "shopify://apps/releasit-cod-form/blocks/app-embed/72faf214-4174-4fec-886b-0d0e8d3af9a2",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
-      },
-      "7278694835107773449": {
-        "type": "shopify://apps/bundlesuite/blocks/bundle_components/ec3fca7a-00ff-426d-ac7c-5f640fb4c8a4",
-        "disabled": false,
-        "settings": {
-          "custom_section_class": "",
-          "what_happens_on_add_to_cart": "redirect_to_cart",
-          "customcss": "",
-          "customjs": ""
-        }
       }
     }
   },
