@@ -49,10 +49,6 @@
             "size_chart_page": ""
           }
         },
-        "xb_cart_upsell_a_WH9PeC": {
-          "type": "shopify://apps/xb-cart-upsell/blocks/a/e9179814-5d2a-40d0-a03d-245bcb819e73",
-          "settings": {}
-        },
         "payment_terms": {
           "type": "payment_terms",
           "disabled": true,
@@ -68,7 +64,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -105,7 +101,6 @@
         "price",
         "quantity_selector",
         "variant_picker",
-        "xb_cart_upsell_a_WH9PeC",
         "payment_terms",
         "releasit_cod_form_form_app_block_9ydanc",
         "buy_buttons",
