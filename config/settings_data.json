@@ -54,10 +54,15 @@
         "disabled": false,
         "settings": {}
       },
-      "22230382528836309": {
-        "type": "shopify://apps/xb-cart-upsell/blocks/core_script/e9179814-5d2a-40d0-a03d-245bcb819e73",
+      "7278694835107773449": {
+        "type": "shopify://apps/bundlesuite/blocks/bundle_components/ec3fca7a-00ff-426d-ac7c-5f640fb4c8a4",
         "disabled": false,
-        "settings": {}
+        "settings": {
+          "custom_section_class": "",
+          "what_happens_on_add_to_cart": "redirect_to_cart",
+          "customcss": "",
+          "customjs": ""
+        }
       }
     }
   },
