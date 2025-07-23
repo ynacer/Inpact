@@ -566,6 +566,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_WepmBn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-23_a_10.19.50_0cdf8a8d.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><strong>\"Des boîtes élégantes et de qualité !\"</strong><br/><br/>Je suis ravie de mon achat ! Les boîtes sont non seulement magnifiques mais aussi très solides. <br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -575,7 +588,8 @@
         "item_bHYDWU",
         "item_ATR8Y6",
         "item_byh93B",
-        "item_YjYVGR"
+        "item_YjYVGR",
+        "item_WepmBn"
       ],
       "name": "Multi-column",
       "settings": {
@@ -626,12 +640,24 @@
             "title": "",
             "content": "<p>الناب لي شريت من Yallah shop <br/>راقية فوق ما تصورت  خدمة الطرز ممتازة و الثوب كيبان فخم.<br/>حتى التوصيل كان فالموعد.<br/>تجربة شراء رائعة بصراحة!<br/><br/></p>"
           }
+        },
+        "testimonial_YXfLhJ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ahmed",
+            "title": "Testimonial",
+            "content": "<p><strong>\"Très satisfaite de ma commande !\"</strong><br/><br/>Les produits sont conformes aux photos, bien emballés et livrés rapidement. Mention spéciale pour les boîtes : elles sont sublimes et de très bonne qualité. Je recommande vivement YallahShop !<br/><br/></p>"
+          }
         }
       },
       "block_order": [
         "testimonial_8qnmK8",
         "testimonial_FmzAqL",
-        "testimonial_fYUL3c"
+        "testimonial_fYUL3c",
+        "testimonial_YXfLhJ"
       ],
       "name": "Testimonials",
       "settings": {
