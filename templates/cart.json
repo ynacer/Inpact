@@ -25,7 +25,7 @@
         }
       },
       "block_order": [
-        "totals",
+       
         "checkout_button"
       ],
       "settings": {
