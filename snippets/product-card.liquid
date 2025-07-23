@@ -29,7 +29,7 @@ Supported variables
 {%- assign show_secondary_image = show_secondary_image | default: settings.show_secondary_image, allow_false: true -%}
 {%- assign text_alignment = text_alignment | default: settings.product_info_alignment -%}
 
-{%- if stacked and section.settings.products_per_row_mobile == '2' -%}
+{%- if stacked and section.settings.products_per_row_mobile == '1' -%}
   {%- assign mobile_reduced = true -%}
 {%- endif -%}
 
