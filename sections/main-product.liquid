@@ -16,7 +16,7 @@
   @media screen and (min-width: 1000px) {
     #shopify-section-{{ section.id }} {
       {%- assign media_ratio = section.settings.desktop_media_width | divided_by: 50.0 -%}
-      --product-grid: auto / minmax(0, {{ media_ratio }}fr) minmax(0, {{ 2.0 | minus: media_ratio }}fr);
+      --product-grid: auto / minmax(0, {{ media_ratio }}fr) minmax(0, {{ 1.0 | minus: media_ratio }}fr);
       --product-gallery-media-list-grid: {% if section.settings.desktop_media_layout contains 'grid' %}auto-flow dense / repeat(2, minmax(0, 1fr)){% else %}auto / auto-flow 100%{% endif %};
       --product-gallery-media-list-gap: calc(var(--grid-gutter) / 2);
     }
