@@ -28,10 +28,10 @@
             "url": ""
           }
         },
-        "message_QrrUy8": {
+        "message_7Bi8Fj": {
           "type": "message",
           "settings": {
-            "text": "",
+            "text": "🚚توصيل سريع",
             "url": ""
           }
         }
@@ -39,7 +39,7 @@
       "block_order": [
         "message",
         "message_cTnxTJ",
-        "message_QrrUy8"
+        "message_7Bi8Fj"
       ],
       "settings": {
         "enable_sticky": false,
