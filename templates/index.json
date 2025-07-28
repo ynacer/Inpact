@@ -315,32 +315,16 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "collection_UNKC8Q": {
-          "type": "collection",
-          "settings": {
-            "collection": "أدوات-وابتكارات-منزلية",
-            "image": "shopify://shop_images/Design_sans_titre_14.png",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h6",
-            "text_position": "place-self-end-center text-center",
-            "text_color": "#1a1a1a",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
         "collection_fQgJGy",
-        "collection_AEnjLG",
-        "collection_UNKC8Q"
+        "collection_AEnjLG"
       ],
       "name": "Collection list",
       "settings": {
         "full_width": true,
-        "stack_collections": false,
+        "stack_collections": true,
         "collections_per_row_mobile": "1",
         "collections_per_row": 3,
         "show_progress_bar": false,
