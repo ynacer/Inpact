@@ -29,7 +29,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
