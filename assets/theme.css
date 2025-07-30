@@ -10070,4 +10070,30 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   display: -webkit-box;
   overflow: hidden;
 }
+/* ===== STYLE LUXUEUX – PRIX IMPACT THEME ===== */
+
+.price .price__sale,
+.price .price__regular {
+  font-size: 30px !important;
+  color: #bfa25c !important;    /* Doré élégant */
+  font-weight: 600;
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.3px;
+}
+
+.price .price__compare {
+  font-size: 20px !important;
+  color: #999999 !important;
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+.price .badge {
+  background-color: #5e4635 !important;
+  color: #ffffff !important;
+  padding: 6px 10px;
+  font-size: 16px !important;
+  border-radius: 5px;
+  font-weight: 500;
+}
 
