@@ -10070,28 +10070,4 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   display: -webkit-box;
   overflow: hidden;
 }
-/* STYLE LUXUEUX POUR LE PRIX SUR LES FICHES PRODUITS */
 
-.product__info-container .price-item {
-  font-size: 30px !important;
-  color: #bfa25c; /* doré élégant */
-  font-weight: 600;
-  font-family: 'Georgia', serif;
-  letter-spacing: 0.5px;
-}
-
-.product__info-container .price-item--regular {
-  font-size: 20px !important;
-  color: #999999;
-  text-decoration: line-through;
-  font-style: italic;
-}
-
-.product_info-container .price_badge {
-  font-size: 18px !important;
-  background-color: #5e4635;
-  color: #ffffff;
-  padding: 6px 12px;
-  border-radius: 5px;
-  font-weight: 500;
-}
