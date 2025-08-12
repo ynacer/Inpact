@@ -259,20 +259,6 @@
     },
     "rich_text_XCrMrn": {
       "type": "rich-text",
-      "blocks": {
-        "heading_fJKVe7": {
-          "type": "heading",
-          "settings": {
-            "text": "تسوق حسب الأقسام",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_fJKVe7"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -281,63 +267,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "collection_list_3tCLAV": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_fQgJGy": {
-          "type": "collection",
-          "settings": {
-            "collection": "مفارش-الطاولات",
-            "image": "shopify://shop_images/Design_sans_titre_10.png",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h6",
-            "text_position": "place-self-end-center text-center",
-            "text_color": "#1a1a1a",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_AEnjLG": {
-          "type": "collection",
-          "settings": {
-            "collection": "الديكور-التقليدي",
-            "image": "shopify://shop_images/Design_sans_titre_11.png",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h6",
-            "text_position": "place-self-end-center text-center",
-            "text_color": "#1a1a1a",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "collection_fQgJGy",
-        "collection_AEnjLG"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "rich_text_KPrJTR": {
@@ -724,7 +653,6 @@
     "collection_list_x3P6ji",
     "rich_text_jPjdUc",
     "rich_text_XCrMrn",
-    "collection_list_3tCLAV",
     "rich_text_KPrJTR",
     "featured_collection_9yMGPb",
     "rich_text_pbpXjA",
