@@ -513,6 +513,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_wqQ7Dk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ttt.jpg",
+            "column_size": "3",
+            "title": "أراء الزبناء",
+            "heading_tag": "h4",
+            "content": "<p><br/>بصراحة أعجبتني بزاف هاد العلبة التقليدية، الصنعة ديالها راقية بزاف وكتعكس لمسة مغربية أصيلة. درت فيها الحلوى وقدمتها للضياف و كلشي بقا منبهر بالشكل الأنيق والتفاصيل الدقيقة. <br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -524,7 +537,8 @@
         "item_byh93B",
         "item_YjYVGR",
         "item_WepmBn",
-        "item_H6R6YK"
+        "item_H6R6YK",
+        "item_wqQ7Dk"
       ],
       "name": "Multi-column",
       "settings": {
