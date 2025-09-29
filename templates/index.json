@@ -500,6 +500,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_H6R6YK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/boita.jpg",
+            "column_size": "3",
+            "title": "Avis client",
+            "heading_tag": "h4",
+            "content": "<p><br/> J’ai commandé cette magnifique boîte artisanale pour offrir des chocolats, et je suis ravi ! Le design est raffiné .<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -510,7 +523,8 @@
         "item_ATR8Y6",
         "item_byh93B",
         "item_YjYVGR",
-        "item_WepmBn"
+        "item_WepmBn",
+        "item_H6R6YK"
       ],
       "name": "Multi-column",
       "settings": {
