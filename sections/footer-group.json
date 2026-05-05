@@ -74,6 +74,7 @@
         "customer-support",
         "payment"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -130,6 +131,7 @@
         "subheading_8qzDmB",
         "heading_6rf8yh"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
