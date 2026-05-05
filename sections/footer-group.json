@@ -105,7 +105,12 @@
           "type": "subheading",
           "settings": {
             "text": "📞 WhatsApp : +212 606431434"
-    
+          }
+        },
+        "subheading_8qzDmB": {
+          "type": "subheading",
+          "settings": {
+            "text": "📞 WhatsApp : +212 606431434"
           }
         },
         "heading_6rf8yh": {
@@ -122,6 +127,7 @@
         "subheading_a39NUB",
         "subheading_gNhfJD",
         "subheading_Qdz4Ub",
+        "subheading_8qzDmB",
         "heading_6rf8yh"
       ],
       "name": "Rich text",
